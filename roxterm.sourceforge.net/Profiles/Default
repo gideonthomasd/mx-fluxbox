@@ -1,0 +1,6 @@
+[roxterm profile]
+font=Monospace 13
+scrollback_lines=10000
+height=25
+width=89
+saturation=0.922272
