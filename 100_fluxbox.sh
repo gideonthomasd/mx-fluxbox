@@ -3,6 +3,8 @@
 sudo apt update
 sudo apt install audacious lxterminal plank yt-dlp -y
 
+tar -xzvf styles.tar.gz
+
 mkdir -p ~/Pictures/wallpapers
 cp lake.jpg ~/Pictures/wallpapers/lake.jpg
 
