@@ -1,0 +1,27 @@
+[begin] (Recent files)
+[exec] ([share/]   fonts/) { xdg-open "/home/phil/.local/share/fonts" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([myfluxbox/]   themes/) { xdg-open "/home/phil/myfluxbox/themes" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([.fluxbox/]   backgrounds/) { xdg-open "/home/phil/.fluxbox/backgrounds" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([phil/]   myfluxbox/) { xdg-open "/home/phil/myfluxbox" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([.conky/]   MX-ManyRoads/) { xdg-open "/home/phil/.conky/MX-ManyRoads" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([phil/]   .conky/) { xdg-open "/home/phil/.conky" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([Downloads/]   mcOS_Catalina _BS_Night_II.zip) { xdg-open "/home/phil/Downloads/mcOS_Catalina _BS_Night_II.zip" } </usr/share/icons/kora/48x48/mimetypes/application-zip.png>
+[exec] ([Downloads/]   Catalina_BIG_SUR_THEME_PACK.zip) { xdg-open "/home/phil/Downloads/Catalina_BIG_SUR_THEME_PACK.zip" } </usr/share/icons/kora/48x48/mimetypes/application-zip.png>
+[exec] ([Downloads/]   Platus_Next.tar.xz) { xdg-open "/home/phil/Downloads/Platus_Next.tar.xz" } </usr/share/icons/kora/48x48/mimetypes/application-x-xz-compressed-tar.png>
+[exec] ([Downloads/]   Platus_Prime.tar.xz) { xdg-open "/home/phil/Downloads/Platus_Prime.tar.xz" } </usr/share/icons/kora/48x48/mimetypes/application-x-xz-compressed-tar.png>
+[exec] ([wallpapers/]   download (11).jpeg) { geany "/home/phil/Pictures/wallpapers/download (11).jpeg" } </usr/share/icons/kora/48x48/mimetypes/application-octet-stream.png>
+[exec] ([wallpapers/]   download (10).jpeg) { geany "/home/phil/Pictures/wallpapers/download (10).jpeg" } </usr/share/icons/kora/48x48/mimetypes/application-octet-stream.png>
+[exec] ([MX-ManyRoads/]   memory) { geany "/home/phil/.conky/MX-ManyRoads/memory" } </usr/share/icons/kora/48x48/mimetypes/application-octet-stream.png>
+[exec] ([wallpapers/]   download (9).jpeg) { geany "/home/phil/Pictures/wallpapers/download (9).jpeg" } </usr/share/icons/kora/48x48/mimetypes/application-octet-stream.png>
+[exec] ([wallpapers/]   sky-nature-starry-night-night-wallpaper-79f0681d911a8d7bd6b708df50f1b65d.jpg) { geany "/home/phil/Pictures/wallpapers/sky-nature-starry-night-night-wallpaper-79f0681d911a8d7bd6b708df50f1b65d.jpg" } </usr/share/icons/kora/48x48/mimetypes/application-octet-stream.png>
+[exec] ([wallpapers/]   download (8).jpeg) { geany "/home/phil/Pictures/wallpapers/download (8).jpeg" } </usr/share/icons/kora/48x48/mimetypes/application-octet-stream.png>
+[exec] ([wallpapers/]   download (7).jpeg) { geany "/home/phil/Pictures/wallpapers/download (7).jpeg" } </usr/share/icons/kora/48x48/mimetypes/application-octet-stream.png>
+[exec] ([Downloads/]   download.jpeg) { geany "/home/phil/Downloads/download.jpeg" } </usr/share/icons/kora/48x48/mimetypes/application-octet-stream.png>
+[exec] ([phil/]   weather.sh) { geany "/home/phil/weather.sh" } </usr/share/icons/kora/48x48/mimetypes/application-x-shellscript.png>
+[exec] ([Downloads/]   Mojave-Light-Fade-Out.zip) { xdg-open "/home/phil/Downloads/Mojave-Light-Fade-Out.zip" } </usr/share/icons/kora/48x48/mimetypes/application-zip.png>
+[exec] ([plank/]   themes/) { xdg-open "/home/phil/.local/share/plank/themes" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([share/]   plank/) { xdg-open "/home/phil/.local/share/plank" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([.local/]   share/) { xdg-open "/home/phil/.local/share" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([phil/]   .local/) { xdg-open "/home/phil/.local" } </usr/share/icons/kora/48x48/places/folder.png>
+[exec] ([phil/]   Downloads/) { xdg-open "/home/phil/Downloads" } </usr/share/icons/kora/48x48/places/folder.png>
+[end]
