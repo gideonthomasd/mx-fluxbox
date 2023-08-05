@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt update
-sudo apt install audacious lxterminal plank yt-dlp -y
+sudo apt install audacious lxterminal plank lolcat yt-dlp -y
 
 tar -xzvf styles.tar.gz
 
